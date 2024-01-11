@@ -1,6 +1,6 @@
 {
-    "name": "brick_breaker",
-    "short_name": "brick_breaker",
+    "name": "Brick Breaker",
+    "short_name": "Brick Breaker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
